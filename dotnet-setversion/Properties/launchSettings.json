@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dotnet-setversion": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\patrik.pfaffenbauer\\Documents\\p3\\automatica\\src\\automatica.core 0.1.0"
+    }
+  }
+}
