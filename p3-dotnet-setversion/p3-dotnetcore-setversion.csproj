@@ -3,6 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <PackageProjectUrl>https://github.com/p3root/p3-dotnetcore-setversion</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/p3root/p3-dotnetcore-setversion</RepositoryUrl>
+    <Company>p3root</Company>
+    <Authors>p3root</Authors>
+    <Version>0.1.0</Version>
   </PropertyGroup>
 
 </Project>
